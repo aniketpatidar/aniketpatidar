@@ -5,6 +5,6 @@ Welcome to my GitHub profile! I'm passionate about turning code into innovation,
 ## About Me
 
 - 🌐 https://aniketpatidar.me/
-- 📫 How to reach me: aniketpatidar01@gmail.com
+- 📫 aniketpatidar01@gmail.com
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
