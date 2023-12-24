@@ -1,6 +1,6 @@
 # Hello, I'm Aniket Patidar, The Ruby on Rails Guy 👋
 
-Welcome to my GitHub profile! I'm passionate about turning code into innovation, and here you'll find some of my projects and contributions.
+Welcome to my GitHub profile! I'm passionate about turning code into innovation, and here you'll find some of my projects.
 
 ## About Me
 
