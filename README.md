@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile! I'm passionate about turning code into innovation, and here you'll find some of my projects.
 
-## About Me
-
 - 🌐 https://aniketpatidar.me/
 - 📫 aniketpatidar01@gmail.com
 
