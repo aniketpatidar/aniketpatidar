@@ -9,12 +9,12 @@ Professional experience in developing the back-end and front-end as well as deal
 
 Core competencies:
 
-▪️ Experience working with Rails 7 (importmaps and esbuild)
-▪️ Experience working with Rails 6 legacy codebase
-▪️ Database: PostgreSQL, MySQL, Redis
-▪️ Front-end: HTML & CSS, TailwindCSS, Bootstrap
-▪️ Deployment: DigitalOcean VMs, AWS S3
-▪️ Other: Javascript, jQuery, Stimulus, Turbo, Hotwire, WebSockets
+- Experience working with Rails 7 (importmaps and esbuild)
+- Experience working with Rails 6 legacy codebase
+- Database: PostgreSQL, MySQL, Redis
+- Front-end: HTML & CSS, TailwindCSS, Bootstrap
+- Deployment: DigitalOcean VMs, AWS S3
+- Other: Javascript, jQuery, Stimulus, Turbo, Hotwire, WebSockets
 
 <div>
   <a href="https://github.com/aniketpatidar">
