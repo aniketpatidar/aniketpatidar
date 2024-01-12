@@ -1,12 +1,20 @@
 
-### Hi there!👋
+### Hey there!👋
 
-## I'm Aniket Patidar 🌼
+## I'm Aniket Patidar
 
-- 🏖️ I live in 🇮🇳, more precisely in Indore 😎 
-- 🌱 I’m currently learning Ruby, Ruby on Rails, HTML5, CSS3, JavaScript, React
-- 📫 How to reach me: aniketpatidar01@gmail.com
-- 😄 Pronouns: he/him 
+A software engineer proficient in Ruby on Rails, Hotwire (including Turbo and Stimulus), JS, APIs, RSpec, SQL, MySQL, Postgres, HTML, CSS, Tailwind and a bit of jQuery. 🚀
+
+Professional experience in developing the back-end and front-end as well as dealing with databases, deployments and workflow automation. I'm always eager to take on new challenges and learn new technologies. I am highly motivated to contribute, learn, and grow within the industry.
+
+Core competencies:
+
+▪️ Experience working with Rails 7 (importmaps and esbuild)
+▪️ Experience working with Rails 6 legacy codebase
+▪️ Database: PostgreSQL, MySQL, Redis
+▪️ Front-end: HTML & CSS, TailwindCSS, Bootstrap
+▪️ Deployment: DigitalOcean VMs, AWS S3
+▪️ Other: Javascript, jQuery, Stimulus, Turbo, Hotwire, WebSockets
 
 <div>
   <a href="https://github.com/aniketpatidar">
