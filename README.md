@@ -1,7 +1,4 @@
-
-### Hey there!👋
-
-## I'm Aniket Patidar
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Aniket+Patidar;+Welcome+to+My+Profile!;Over+2+years+of+programming+experience;Always+learning+new+things)](https://git.io/typing-svg)
 
 A software engineer proficient in Ruby on Rails, Hotwire (including Turbo and Stimulus), JS, APIs, RSpec, SQL, MySQL, Postgres, HTML, CSS, Tailwind and a bit of jQuery. 🚀
 
