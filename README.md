@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Aniket+Patidar;+Welcome+to+My+Profile!;Over+2+years+of+programming+experience;Always+learning+new+things)](https://git.io/typing-svg)
 
-A software engineer proficient in Ruby on Rails, React, Hotwire (including Turbo and Stimulus) with a background in Computer Science Engineering. Professional experience in developing the back-end and front-end as well as dealing with databases, deployments and workflow automation. I'm always eager to take on new challenges and learn new technologies. I am highly motivated to contribute, learn, grow within the industry and committed to driving innovation through code. 
+A software engineer proficient in Ruby on Rails, React, Hotwire (including Turbo and Stimulus) with a background in Computer Science Engineering. Professional experience in developing the back-end and front-end as well as dealing with databases.
 
 ## » **Core competencies**
 
-- Experience working with Rails 7 (importmaps and esbuild)
+- Experience working with Rails 7
 - Experience working with Rails 6 legacy codebase
 - Database: PostgreSQL, MySQL, Redis
 - Front-end: HTML & CSS, TailwindCSS, Javascript and React
@@ -42,4 +42,4 @@ A software engineer proficient in Ruby on Rails, React, Hotwire (including Turbo
 </div>
 
 ##
-![](https://komarev.com/ghpvc/?username=aniketpatidar&label=Stalkers♥️)
+![](https://komarev.com/ghpvc/?username=aniketpatidar&label=Views)
