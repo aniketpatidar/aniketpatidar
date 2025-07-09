@@ -1,28 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Aniket+Patidar;+Welcome+to+My+Profile!;Over+2+years+of+programming+experience;Always+learning+new+things)](https://git.io/typing-svg)
+Hi there, I'm Aniket Patidar👋, who loves clean code, smart design, and buliding things that matter.
 
-A software engineer proficient in Ruby on Rails, React, Hotwire (including Turbo and Stimulus) with a background in Computer Science Engineering. Professional experience in developing the back-end and front-end as well as dealing with databases.
+A software engineer proficient in Ruby, Rails, Hotwire and React with a background in Computer Science Engineering.
 
-## » **Core competencies**
+Versatile Full-Stack Engineer with hands-on experience developing and maintaining robust large-scale softwares.
 
-- Experience working with Rails 7
-- Experience working with Rails 6 legacy codebase
-- Database: PostgreSQL, MySQL, Redis
-- Front-end: HTML & CSS, TailwindCSS, Javascript and React
-- Deployment: DigitalOcean VMs, AWS S3
-- Other: Hotwire, Turbo, Stimulus, jQuery, WebSockets
+Specialize in crafting high-performance system, whether it's a scalable back-end, interactive front-end or full featured web platforms.
 
-## » **Some projects**
-<p align="center">
-  <a href="https://github.com/aniketpatidar/code-challenges"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aniketpatidar&repo=code-challenges&theme=dracula&show_owner=true" /></a>
-  <a href="https://github.com/aniketpatidar/TweetHub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aniketpatidar&repo=TweetHub&theme=dracula&show_owner=true" /></a>
-</p>
-
-## » **Github stats**
-<div align="center">
-  <a href="https://github.com/aniketpatidar">
-  <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ANIKETPATIDAR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ANIKETPATIDAR&layout=compact&langs_count=4&theme=dracula"/>
-</div>
+Experience with writing unit and integration tests with RSpec, and skilled in writing technical documentations.
 
 ## » **My skills**
 <div align="">
