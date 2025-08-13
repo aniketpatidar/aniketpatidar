@@ -1,4 +1,4 @@
-Hi there, I'm Aniket Patidar👋, who loves clean code, smart design, and buliding things that matter.
+Hi there, I'm Aniket Patidar, who loves clean code, smart design, and buliding things that matter.
 
 A software engineer proficient in Ruby, Rails, Hotwire and React with a background in Computer Science Engineering.
 
