@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57BCDA&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57BCDA&height=180&section=header&text=aniketpatidar&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
 Hi there, I'm Aniket Patidar, who loves clean code, smart design, and buliding things that matter.
 
