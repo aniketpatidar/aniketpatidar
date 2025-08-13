@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57BCDA&height=180&section=header&text=Hi there&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57BCDA&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-I'm Aniket Patidar, who loves clean code, smart design, and buliding things that matter.
+Hi there, I'm Aniket Patidar, who loves clean code, smart design, and buliding things that matter.
 
 A software engineer proficient in Ruby, Rails, Hotwire and React with a background in Computer Science Engineering.
 
