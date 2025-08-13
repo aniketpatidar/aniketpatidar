@@ -2,11 +2,6 @@ Hi there, I'm Aniket Patidar👋, who loves clean code, smart design, and bulidi
 
 A software engineer proficient in Ruby, Rails, Hotwire and React with a background in Computer Science Engineering.
 
-Versatile Full-Stack Engineer with hands-on experience developing and maintaining robust large-scale softwares.
-
-Specialize in crafting high-performance system, whether it's a scalable back-end, interactive front-end or full featured web platforms.
-
-Experience with writing unit and integration tests with RSpec, and skilled in writing technical documentations.
 
 ## » **My skills**
 <div align="">
