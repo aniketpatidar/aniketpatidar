@@ -1,4 +1,5 @@
-Hi there, I'm Aniket Patidar, who loves clean code, smart design, and buliding things that matter. A software engineer proficient in Ruby, Rails, Hotwire and React with a background in Computer Science Engineering.
+# Hi there, I'm Aniket Patidar
+Software Engineer • who loves building stuff with Ruby, Rails & React
 
 ## » **My skills**
 <div align="">
