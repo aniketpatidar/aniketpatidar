@@ -9,4 +9,4 @@ Contributed to prominent open source projects:
 - [rt4914/KlinicCon-Frontend](https://github.com/rt4914/KlinicCon-Frontend)
 - [rt4914/KlinicCon-Backend](https://github.com/rt4914/KlinicCon-Backend)
 
-Know me better here: [aniketpatidar.github.io](https://aniketpatidar.github.io)
+Know me better here: [aniketpatidar.github.io](https://aniketpatidar.com)
