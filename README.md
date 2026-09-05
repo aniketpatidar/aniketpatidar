@@ -7,9 +7,9 @@ Over the past year, he has been spending more time building with AI. Outside of 
 ### Some of his recent work includes:
 
 **[kreditz](https://kreditz.com)**
-- Led production Rails upgrade from 6.1 to 8.0.1 for Kreditz's API
-- Created integrations with Yapily’s open banking API(institutions listing, consent flow, transaction data ingestion) to enable secure retrieval of user financial data for credit scoring
-- Built a dashboard to display corporate financial data from Fortnox & Visma, enabling lenders to assess financial health for credit decisioning
+- Led production Rails upgrade from 6.1 to 8.0.1 for Kreditz's API.
+- Created integrations with Yapily’s open banking APIs (institutions listing, consent flow, transaction data ingestion) to enable secure retrieval of user financial data for credit scoring.
+- Built a dashboard to display corporate financial data from Fortnox & Visma, enabling lenders to assess financial health for credit decisioning.
 - Built custom lending flows and credit scoring pipelines by processing user bank transaction data.
 
 **[myweartoday](https://myweartoday.com)** - built an AI-powered digital closet with virtual try-on and RAG-based outfit recommendations.
@@ -35,4 +35,10 @@ Over the past year, he has been spending more time building with AI. Outside of 
 
 [![GitLab Contributor Stats](https://contributors.gitlab.com/users/aniketpatidar/banner.svg)](https://contributors.gitlab.com/users/aniketpatidar)
 
-my corner of the internet - [aniketpatidar.com](https://aniketpatidar.com)
+### Licenses & certifications
+
+- [Certificate of completion: Claude 101](https://verify.skilljar.com/c/ciowabotjtfv) - Anthropic (Apr 2026)
+- [Claude Code in Action](https://verify.skilljar.com/c/8rujv4pzquzp) - Anthropic (Apr 2026)
+- [AI Engineering with Java and Python Co-Learn - Live](https://courses.telusko.com/learn/certificate/8297416-248289) - TELUSKO (Apr 2026)
+
+> his corner of the internet - [aniketpatidar.com](https://aniketpatidar.com)
