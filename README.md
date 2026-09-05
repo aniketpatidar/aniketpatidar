@@ -6,17 +6,17 @@ Over the past year, he has been spending more time building with AI. Outside of 
 
 ### Some of his recent work includes:
 
-**[kreditz](kreditz.com)**
+**[kreditz](https://kreditz.com)**
 - Led production Rails upgrade from 6.1 to 8.0.1 for Kreditz's API
 - Created integrations with Yapily’s open banking API(institutions listing, consent flow, transaction data ingestion) to enable secure retrieval of user financial data for credit scoring
 - Built a dashboard to display corporate financial data from Fortnox & Visma, enabling lenders to assess financial health for credit decisioning
 - Built custom lending flows and credit scoring pipelines by processing user bank transaction data.
 
-**[myweartoday](myweartoday.com)** - built an AI-powered digital closet with virtual try-on and RAG-based outfit recommendations.
+**[myweartoday](https://myweartoday.com)** - built an AI-powered digital closet with virtual try-on and RAG-based outfit recommendations.
 
-**[teamdriveaway](teamdriveaway.com)** - migrated a legacy CMS to Astro and Sanity CMS, including content schemas and GROQ queries.
+**[teamdriveaway](https://teamdriveaway.com)** - migrated a legacy CMS to Astro and Sanity CMS, including content schemas and GROQ queries.
 
-**[ai-thumbnail-generator](github.com/aniketpatidar/ai-thumbnail-generator)** - built an AI-powered thumbnail generator that creates contextual thumbnails for YouTube (16:9 & 9:16) from uploaded images and prompts.
+**[ai-thumbnail-generator](https://github.com/aniketpatidar/ai-thumbnail-generator)** - built an AI-powered thumbnail generator that creates contextual thumbnails for YouTube (16:9 & 9:16) from uploaded images and prompts.
 
 > [!IMPORTANT]
 > He has contributed to various prominent open-source projects, including:
