@@ -41,4 +41,8 @@ Over the past year, he has been spending more time building with AI. Outside of 
 - [Claude Code in Action](https://verify.skilljar.com/c/8rujv4pzquzp) - Anthropic (Apr 2026)
 - [AI Engineering with Java and Python Co-Learn - Live](https://courses.telusko.com/learn/certificate/8297416-248289) - TELUSKO (Apr 2026)
 
-> his corner of the internet - [aniketpatidar.com](https://aniketpatidar.com)
+### His corner of the internet
+
+[aniketpatidar.com](https://aniketpatidar.com)
+
+[what-he-is-learning](https://github.com/aniketpatidar/what-im-learning)
