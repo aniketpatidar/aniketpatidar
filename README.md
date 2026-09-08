@@ -2,17 +2,15 @@
 
 Aniket Patidar is a software engineer based in India 🇮🇳 with around 4 years of experience, primarily with Ruby and Ruby on Rails. He has built APIs, worked with databases, mostly PostgreSQL, and integrated third-party services. His experience spans both backend and frontend development, from building backends with Ruby on Rails to developing single-page applications with TypeScript, React.js, and Next.js.
 
+He has experience in fintech and open banking through his work on Kreditz, a financial AI-technology platform focused on credit and risk decisioning.
+
 Over the past year, he has been spending more time building with AI. Outside of work, he enjoys side projects, reading, learning and tinkering with new technologies. He also writes about topics that excite him on his website and most of these writings are Ruby and Rails posts with a few smatterings of opinion with regard to developer life.
 
 ### Some of his recent work includes:
 
-**[kreditz](https://kreditz.com)**
-- Led production Rails upgrade from 6.1 to 8.0.1 for Kreditz's API.
-- Created integrations with Yapily’s open banking APIs (institutions listing, consent flow, transaction data ingestion) to enable secure retrieval of user financial data for credit scoring.
-- Built a dashboard to display corporate financial data from Fortnox & Visma, enabling lenders to assess financial health for credit decisioning.
-- Built custom lending flows and credit scoring pipelines by processing user bank transaction data.
+**[kreditz](https://kreditz.com)** - led the production migration of the API application from Rails 6.1 to Rails 8.0.1, built Yapily Open Banking integrations for consent and financial transaction data, developed lending and credit-scoring workflows, and built financial data solutions integrating Fortnox and Visma to help lenders assess business financial health.
 
-**[myweartoday](https://myweartoday.com)** - built an AI-powered digital closet with virtual try-on and RAG-based outfit recommendations.
+**[myweartoday](https://myweartoday.com)** - built an AI-powered closet and styling application that combines LLMs, RAG, vector search, and asynchronous AI workflows to provide personalized outfit recommendations.
 
 **[teamdriveaway](https://teamdriveaway.com)** - migrated a legacy CMS to Astro and Sanity CMS, including content schemas and GROQ queries.
 
