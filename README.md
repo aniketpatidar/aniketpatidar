@@ -16,6 +16,8 @@ Over the past year, he has been spending more time building with AI. Outside of 
 
 **[ai-thumbnail-generator](https://github.com/aniketpatidar/ai-thumbnail-generator)** - built an AI-powered thumbnail generator that creates contextual thumbnails for YouTube (16:9 & 9:16) from uploaded images and prompts.
 
+**[aniketpatidar.com](https://aniketpatidar.com)** - built his corner of the internet using `$ jekyll new my-awesome-site`
+
 > [!IMPORTANT]
 > He has contributed to various prominent open-source projects, including:
 
@@ -39,8 +41,5 @@ Over the past year, he has been spending more time building with AI. Outside of 
 - [Claude Code in Action](https://verify.skilljar.com/c/8rujv4pzquzp) - Anthropic (Apr 2026)
 - [AI Engineering with Java and Python Co-Learn - Live](https://courses.telusko.com/learn/certificate/8297416-248289) - TELUSKO (Apr 2026)
 
-### His corner of the internet
-
-[aniketpatidar.com](https://aniketpatidar.com)
-
-[what-he-is-learning](https://github.com/aniketpatidar/what-im-learning)
+> [!TIP]
+> [what-he-is-learning](https://github.com/aniketpatidar/what-im-learning)
