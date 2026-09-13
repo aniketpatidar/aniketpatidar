@@ -43,3 +43,10 @@ Over the past year, he has been spending more time building with AI. Outside of 
 
 > [!TIP]
 > [what-he-is-learning](https://github.com/aniketpatidar/what-im-learning)
+
+### Personal Info
+* **E-mail:**      [aniketpatidar01@gmail.com](mailto:aniketpatidar01@gmail.com)
+* **GitHub:**      [https://github.com/aniketpatidar](https://github.com/aniketpatidar)
+* **GitLab:**      [https://gitlab.com/aniketpatidar](https://gitlab.com/aniketpatidar)
+* **LinkedIn:**    [https://linkedin.com/in/aniketpatidar](https://linkedin.com/in/aniketpatidar)
+* **Discord:**     [@aniketpatidar](https://discord.com/users/aniketpatidar)
