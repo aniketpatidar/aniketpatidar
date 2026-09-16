@@ -46,8 +46,10 @@ Over the past year, he has been spending more time building with AI. Outside of 
 
 ### Personal Info
 * **E-mail:**      [aniketpatidar01@gmail.com](mailto:aniketpatidar01@gmail.com)
+* **Website:**      [aniketpatidar.com](https://aniketpatidar.com)
 * **Résumé:**      [aniketpatidar.com/resume](https://aniketpatidar.com/resume)
 * **GitHub:**      [https://github.com/aniketpatidar](https://github.com/aniketpatidar)
 * **GitLab:**      [https://gitlab.com/aniketpatidar](https://gitlab.com/aniketpatidar)
 * **LinkedIn:**    [https://linkedin.com/in/aniketpatidar](https://linkedin.com/in/aniketpatidar)
+* **X:**           [@aniketpatidar01](https://x.com/aniketpatidar01)
 * **Discord:**     [@aniketpatidar](https://discord.com/users/aniketpatidar)
